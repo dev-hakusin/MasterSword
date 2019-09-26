@@ -1,0 +1,1 @@
+give @s minecraft:diamond{display:{Name:'{"text":"強化ダイヤモンド","italic":false}'},MSItem:2,Enchantments:[{lvl:-1s,id:"none"}]} 1

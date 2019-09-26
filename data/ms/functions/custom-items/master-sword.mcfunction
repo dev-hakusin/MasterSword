@@ -1,0 +1,1 @@
+give @s minecraft:diamond_sword{display:{Name:'{"text":"Master Sword","italic":false,"color":"dark_purple"}'},MSItem:3,Enchantments:[{lvl:-1s,id:"none"}]}
